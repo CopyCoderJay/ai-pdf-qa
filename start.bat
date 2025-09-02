@@ -1,0 +1,9 @@
+@echo off
+echo Starting AI PDF Q&A Assistant...
+echo.
+echo Installing dependencies...
+npm install
+echo.
+echo Starting development server...
+npm start
+pause
