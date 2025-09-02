@@ -177,13 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [PDF.js](https://mozilla.github.io/pdf.js/) for PDF processing
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [React](https://reactjs.org/) for the framework
-
-## 📞 Support
-
-- **Issues**: Create a GitHub issue
-- **Discussions**: Use GitHub Discussions
-- **Email**: [your-email@example.com]
-
 ---
 
 **Made with ❤️ using React and AI**
